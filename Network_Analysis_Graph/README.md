@@ -25,8 +25,7 @@ This project uses multiple data structures and algorithms to simulate a network.
   ### Node.java
   Basic Node class used mainly for LinkList.java.
   
-  ### 
-  STE.java
+  ### STE.java
   Spanning Tree Edge class file. Mainly used for a few functions in NetAnalysis.java.
   
 ## Main Functions
