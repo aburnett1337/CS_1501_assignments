@@ -1,4 +1,5 @@
 # Network Analysis Project
+Grade: 100%
 
 ## What?
 This is a project around simulating network flow by being given different paths with different attributes. (bandwidth, wire type, length, etc).
