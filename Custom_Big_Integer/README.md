@@ -3,8 +3,15 @@
 ## What?
  This is my simplified implementation of Java's BigInteger
 
-### How?
+## How?
 This project was done mainly using bit manipulation, mainly focusing on basic arithmetic and GCD functions. Each HeftyInteger is treated as an array of bytes.
+
+## Files
+  ### App.java
+  Main function for the program. Used mainly for debugging.
+  
+  ### HeftyInteger.java
+  Heart of the program. Contains all the functions and constructors.
 
 ## Main Functions
   ### Add
