@@ -1,4 +1,5 @@
 # HeftyInteger (Big Integer Implementation)
+Grade: 100%
 
 ## What?
  This is my simplified implementation of Java's BigInteger
