@@ -1,3 +1,3 @@
-# CS_1501_assignments
+# Program Archives
 
-This repository contains all my projects from CS 1501 with Dr. Farnan
+This repository contains all my significant projects I have done in class. Last updated 1/11/22
